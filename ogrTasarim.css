@@ -1,0 +1,133 @@
+body {
+}
+#cerceveOgrForm {
+	height: auto;
+	width: 700px;
+	margin-right: auto;
+	margin-left: auto;
+	background-color: #069;
+	border-radius: 15px;
+	padding-top: 5px;
+	padding-left: 5px;
+	padding-bottom: 5px;
+	
+	-webkit-box-shadow: 7px 7px 17px 0px rgba(50, 50, 82, 0.53);
+	-moz-box-shadow: 7px 7px 17px 0px rgba(50, 50, 82, 0.53);
+	box-shadow: 7px 7px 17px 0px rgba(50, 50, 82, 0.53);
+	
+}
+#icerikSol {
+	height: auto;
+	width: 350px;
+	float: left;
+	background-color: #FFF;
+	border-radius: 20px;
+	margin: 5px;
+	
+	-webkit-box-shadow: 7px 7px 17px 0px rgba(50, 50, 82, 0.53);
+	-moz-box-shadow: 7px 7px 17px 0px rgba(50, 50, 82, 0.53);
+	box-shadow: 7px 7px 17px 0px rgba(50, 50, 82, 0.53);
+}
+#ogrGirisDuyuruBaslik {
+	height: 50px;
+	width: 300px;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+#clearOgricerik {
+	clear: both;
+}
+
+#icerikSag {
+	height: 300px;
+	width: 320px;
+	float: left;
+	margin-left: 10px;
+	background-color: #FFF;
+	border-radius: 20px;
+	margin-top: 5px;
+	-webkit-box-shadow: 7px 7px 17px 0px rgba(50, 50, 82, 0.53);
+	-moz-box-shadow: 7px 7px 17px 0px rgba(50, 50, 82, 0.53);
+	box-shadow: 7px 7px 17px 0px rgba(50, 50, 82, 0.53);
+}
+
+
+#clearOgrGiris {
+	clear: both;
+}
+
+
+#bannerOgrGiris {
+	background-color: #09F;
+	height: 100px;
+	width: 695px;
+	border-radius: 15px;
+	margin-right: auto;
+	margin-left: auto;
+	float: left;
+}
+#icerikOgrGiris {
+	background-color: #0099FF;
+	height: auto;
+	width: 695px;
+	float: left;
+	margin-top: 5px;
+	border-radius: 15px;
+	padding-bottom: 5px;
+	padding-right: 0px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+.tb11 {
+	border: 2px solid #456879;
+	border-radius: 10px;
+	height: 20px;
+	width: 200px;
+	font-size: 18px;
+	font-family: Verdana, Geneva, sans-serif;
+	font-weight: bold;
+	color: #03F;	
+}
+
+
+
+.myButton2 {
+	background-image: -webkit-linear-gradient(top, #55BBD9, #55BBD9);
+	background-image: -moz-linear-gradient(top, #55BBD9, #55BBD9);
+	background-image: -ms-linear-gradient(top, #55BBD9, #55BBD9);
+	background-image: -o-linear-gradient(top, #55BBD9, #55BBD9);
+	background-image: linear-gradient(to bottom, #55BBD9, #55BBD9);
+	-webkit-border-radius: 8;
+	-moz-border-radius: 8;
+	border-radius: 8px;
+	text-shadow: 0px 0px 0px #666666;
+	font-family: Arial;
+	color: #ffffff;
+	font-size: 15px;
+	padding: 11px 14px 12px 20px;
+	border: solid #1f628d 0px;
+	font-style: normal;
+	text-decoration: none;
+	background-color: #55BBD9;
+}
+.myButton2:hover {
+  background: #3cb0fd;
+  background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+  text-decoration: none;
+}

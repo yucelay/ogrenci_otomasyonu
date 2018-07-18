@@ -1,0 +1,198 @@
+@charset "utf-8";
+body {
+
+}
+#cerceve {
+	height: auto;
+	width: 598px;
+	margin-right: auto;
+	margin-left: auto;
+	background-color: #069;
+	border-radius: 15px;
+	padding-top: 5px;
+	padding-left: 5px;
+	padding-bottom: 5px;
+	-webkit-box-shadow: 7px 7px 17px 0px rgba(50, 50, 82, 0.53);
+	-moz-box-shadow: 7px 7px 17px 0px rgba(50, 50, 82, 0.53);
+	box-shadow: 7px 7px 17px 0px rgba(50, 50, 82, 0.53);
+}
+#banner {
+	background-color: #FFF;
+	height: 100px;
+	width: 590px;
+	border-radius: 15px;
+	margin-right: auto;
+	margin-left: auto;
+	float: left;
+}
+#idariPersonel {
+	height: 80px;
+	width: 270px;
+	margin-top: 5px;
+	float: left;
+	margin-right: auto;
+	padding-left: 5px;
+	padding-top: 10px;
+	background-color: #069;
+	margin-left: 160px;
+	border-radius:20px;
+	-webkit-box-shadow: 7px 7px 17px 0px rgba(50, 50, 82, 0.53);
+	-moz-box-shadow: 7px 7px 17px 0px rgba(50, 50, 82, 0.53);
+	box-shadow: 7px 7px 17px 0px rgba(50, 50, 82, 0.53);
+	
+}
+
+
+#idariPersonel:hover {
+	height: 80px;
+	width: 270px;
+	margin-top: 5px;
+	float: left;
+	margin-right: auto;
+	padding-left: 5px;
+	padding-top: 10px;
+	background-color:#06F;
+	margin-left: 160px;
+	border-radius:20px;
+	-webkit-box-shadow: 7px 7px 17px 0px rgba(50, 50, 82, 0.53);
+	-moz-box-shadow: 7px 7px 17px 0px rgba(50, 50, 82, 0.53);
+	box-shadow: 7px 7px 17px 0px rgba(50, 50, 82, 0.53);
+	
+}
+
+
+#akademisyenYazi {
+	height: 50px;
+	width: 180px;
+	float: left;
+	margin-top: 5px;
+	margin-left: 5px;
+	padding-left: 10px;
+}
+
+#clear2ogrenci {
+	clear: both;
+}
+
+#ogrenci {
+	height: 80px;
+	width: 270px;
+	margin-top: 10px;
+	float: left;
+	margin-right: auto;
+	margin-left: 160px;
+	padding-left: 5px;
+	padding-top: 10px;
+	background-color: #069;
+	border-radius:20px;
+	-webkit-box-shadow: 7px 7px 17px 0px rgba(50, 50, 82, 0.53);
+	-moz-box-shadow: 7px 7px 17px 0px rgba(50, 50, 82, 0.53);
+	box-shadow: 7px 7px 17px 0px rgba(50, 50, 82, 0.53);
+}
+
+#ogrenci:hover {
+	height: 80px;
+	width: 270px;
+	margin-top: 10px;
+	float: left;
+	margin-right: auto;
+	margin-left: 160px;
+	padding-left: 5px;
+	padding-top: 10px;
+	background-color:#06F;
+	border-radius:20px;
+	-webkit-box-shadow: 7px 7px 17px 0px rgba(50, 50, 82, 0.53);
+	-moz-box-shadow: 7px 7px 17px 0px rgba(50, 50, 82, 0.53);
+	box-shadow: 7px 7px 17px 0px rgba(50, 50, 82, 0.53);
+}
+
+
+
+#idariPersonelYazi {
+	height: 50px;
+	width: 180px;
+	float: left;
+	margin-top: 5px;
+	margin-left: 5px;
+	padding-left: 10px;
+}
+
+
+
+#icerik {
+	background-color: #FFFFFF;
+	height: auto;
+	width: 590px;
+	float: left;
+	margin-top: 5px;
+	border-radius: 15px;
+	padding-bottom: 5px;
+	padding-right: 0px;
+}
+#idariFoto {
+	height: 70px;
+	width: 70px;
+	float: left;
+}
+#ogrenciFoto {
+	height: 70px;
+	width: 70px;
+	float: left;
+}
+
+#akademisyenFoto {
+	height: 70px;
+	width: 70px;
+	float: left;
+}
+#ogrenciYazi {
+	height: 50px;
+	width: 180px;
+	float: left;
+	margin-top: 5px;
+	margin-left: 5px;
+	margin-right: auto;
+	padding-left: 10px;
+}
+
+
+
+#akademisyen {
+	height: 80px;
+	width: 270px;
+	margin-top: 10px;
+	float: left;
+	margin-right: auto;
+	padding-left: 5px;
+	padding-top: 10px;
+	background-color: #069;
+	margin-left: 160px;
+	border-radius:20px;
+	-webkit-box-shadow: 7px 7px 17px 0px rgba(50, 50, 82, 0.53);
+	-moz-box-shadow: 7px 7px 17px 0px rgba(50, 50, 82, 0.53);
+	box-shadow: 7px 7px 17px 0px rgba(50, 50, 82, 0.53);
+	
+}
+
+#akademisyen:hover {
+	height: 80px;
+	width: 270px;
+	margin-top: 10px;
+	float: left;
+	margin-right: auto;
+	padding-left: 5px;
+	padding-top: 10px;
+	background-color:#06F;
+	margin-left: 160px;
+	border-radius:20px;
+	-webkit-box-shadow: 7px 7px 17px 0px rgba(50, 50, 82, 0.53);
+	-moz-box-shadow: 7px 7px 17px 0px rgba(50, 50, 82, 0.53);
+	box-shadow: 7px 7px 17px 0px rgba(50, 50, 82, 0.53);
+	
+}
+
+
+#clear {
+	clear: both;
+}
+

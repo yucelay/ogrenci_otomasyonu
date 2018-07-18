@@ -1,0 +1,169 @@
+@charset "utf-8";
+
+body {
+	background-color:#FFF;
+}
+
+#clear {
+	clear: both;
+}
+
+
+#cerceve {
+	height: auto;
+	width: 900px;
+	background-color: #999;
+	margin-right: auto;
+	margin-left: auto;
+	margin-right: auto;
+	margin-left: auto;
+	background-color: #069;
+	border-radius: 15px;
+	padding-top: 5px;
+	padding-left: 5px;
+	padding-bottom: 5px;
+	-webkit-box-shadow: 7px 7px 17px 0px rgba(50, 50, 82, 0.53);
+	-moz-box-shadow: 7px 7px 17px 0px rgba(50, 50, 82, 0.53);
+	box-shadow: 7px 7px 17px 0px rgba(50, 50, 82, 0.53);
+	padding-right: 10px;	
+	
+}
+#profilFoto {
+	background-color: #09C;
+	height: 120px;
+	width: 120px;
+	margin-top: 10px;
+	float: left;
+	border-radius: 15px;
+	padding-top: 5px;
+	padding-left: 5px;
+	padding-bottom: 5px;
+	-webkit-box-shadow: 7px 7px 17px 0px rgba(50, 50, 82, 0.53);
+	-moz-box-shadow: 7px 7px 17px 0px rgba(50, 50, 82, 0.53);
+	box-shadow: 7px 7px 17px 0px rgba(50, 50, 82, 0.53);
+	margin-left: 5px;
+}
+#bilgiler {
+	background-color: #FFF;
+	height: 130px;
+	width: 700px;
+	float: left;
+	margin-left: 20px;
+	margin-top: 5px;
+	padding-top: 10px;
+	padding-left: 10px;
+}
+#bilgilerClear {
+	clear: both;
+}
+
+
+
+#icerik {
+	background-color: #FFF;
+	height: auto;
+	width: 900px;
+	margin-top: 10px;
+	border-radius: 15px;
+	padding-top: 5px;
+	padding-left: 5px;
+	padding-bottom: 5px;
+	-webkit-box-shadow: 7px 7px 17px 0px rgba(50, 50, 82, 0.53);
+	-moz-box-shadow: 7px 7px 17px 0px rgba(50, 50, 82, 0.53);
+	box-shadow: 7px 7px 17px 0px rgba(50, 50, 82, 0.53);
+}
+
+#banner {
+	background-color: #FDFDFD;
+	height: 150px;
+	width: 900px;
+	border-radius: 15px;
+	padding-top: 5px;
+	padding-left: 5px;
+	padding-bottom: 5px;
+	-webkit-box-shadow: 7px 7px 17px 0px rgba(50, 50, 82, 0.53);
+	-moz-box-shadow: 7px 7px 17px 0px rgba(50, 50, 82, 0.53);
+	box-shadow: 7px 7px 17px 0px rgba(50, 50, 82, 0.53);
+}
+#solMenu {
+	background-color: #FFF;
+	height: auto;
+	width: 200px;
+	float: left;
+
+}
+#icerikSag {
+	background-color: #FFF;
+	height: auto;
+	width: 670px;
+	margin-top: 10px;
+	border-radius: 15px;
+	padding-top: 5px;
+	padding-left: 5px;
+	padding-bottom: 5px;
+	float: left;
+	margin-left: 10px;
+
+	
+	
+}
+#iceriksagClear {
+	clear: both;
+}
+
+
+
+#menuCerceve {
+	height: auto;
+	width: 200px;
+	background-color: #09C;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	border-radius: 20px;
+	float: left;
+}
+
+
+
+#arkaplan #cerceve #icerik #solMenu #menuCerceve ul {
+	list-style-type: none;
+	margin: 0px;
+	padding: 0px;
+}
+#arkaplan #cerceve #icerik #solMenu #menuCerceve ul li a {
+	display: block;
+	text-decoration: none;
+	margin-bottom: 5px;
+	line-height: 30px;
+	height: 30px;
+	width: 160px;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 20px;
+	margin-left: 10px;
+	font-weight: normal;
+	background-color: #069;
+	color: #FFF;
+	border-radius: 20px;
+}
+#arkaplan #cerceve #icerik #solMenu #menuCerceve ul li a:hover {
+	display: block;
+	text-decoration: none;
+	margin-bottom: 5px;
+	line-height: 30px;
+	height: 30px;
+	width: 160px;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 20px;
+	margin-left: 10px;
+	font-weight: normal;
+	background-color: #11B1FF;
+	color: #000;
+}
+
+#clearOgr {
+	clear: both;
+}
